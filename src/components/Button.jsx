@@ -4,7 +4,7 @@ const Button = ({ texto = "Text Default", color = "black" }) => {
     background: color,
     color: "white",
     height: "30px",
-    borderRadius: "10px",
+    borderRadius: "5px",
     border: "none",
     cursor: "pointer",
     margin: "5px",
